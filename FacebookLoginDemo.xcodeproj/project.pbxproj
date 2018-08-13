@@ -14,6 +14,7 @@
 		2B1E0A52210F18F80050D92E /* FacebookLoginDemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2B1E0A50210F18F80050D92E /* FacebookLoginDemo.xcdatamodeld */; };
 		2B1E0A54210F18FA0050D92E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B1E0A53210F18FA0050D92E /* Assets.xcassets */; };
 		2B1E0A57210F18FA0050D92E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B1E0A55210F18FA0050D92E /* LaunchScreen.storyboard */; };
+		2BBEFF7A21218633001E41FF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2BBEFF7921218633001E41FF /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		2B1E0A53210F18FA0050D92E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2B1E0A56210F18FA0050D92E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2B1E0A58210F18FA0050D92E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2BBEFF7921218633001E41FF /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7AD420862B007CCA8B76F71A /* Pods_FacebookLoginDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FacebookLoginDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A408727796B8521FC066741F /* Pods-FacebookLoginDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FacebookLoginDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FacebookLoginDemo/Pods-FacebookLoginDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		AEFB01E686B22DDD9CB005AA /* Pods-FacebookLoginDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FacebookLoginDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-FacebookLoginDemo/Pods-FacebookLoginDemo.release.xcconfig"; sourceTree = "<group>"; };
@@ -45,6 +47,7 @@
 		2B1E0A3D210F18F80050D92E = {
 			isa = PBXGroup;
 			children = (
+				2BBEFF7921218633001E41FF /* README.md */,
 				2B1E0A48210F18F80050D92E /* FacebookLoginDemo */,
 				2B1E0A47210F18F80050D92E /* Products */,
 				A58CDA57308F4BD7920A419A /* Pods */,
@@ -153,6 +156,7 @@
 			files = (
 				2B1E0A57210F18FA0050D92E /* LaunchScreen.storyboard in Resources */,
 				2B1E0A54210F18FA0050D92E /* Assets.xcassets in Resources */,
+				2BBEFF7A21218633001E41FF /* README.md in Resources */,
 				2B1E0A4F210F18F80050D92E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

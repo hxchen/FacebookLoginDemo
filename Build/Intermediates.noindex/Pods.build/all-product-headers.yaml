@@ -1,0 +1,403 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/Bolts/Bolts.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "BFAppLink.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Bolts/Bolts/iOS/BFAppLink.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFAppLinkNavigation.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFAppLinkResolving.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFAppLinkReturnToRefererController.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFAppLinkReturnToRefererView.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFAppLinkTarget.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFCancellationToken.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Bolts/Bolts/Common/BFCancellationToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFCancellationTokenRegistration.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Bolts/Bolts/Common/BFCancellationTokenRegistration.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFCancellationTokenSource.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Bolts/Bolts/Common/BFCancellationTokenSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFExecutor.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Bolts/Bolts/Common/BFExecutor.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFGeneric.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Bolts/Bolts/Common/BFGeneric.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFMeasurementEvent.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFTask.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Bolts/Bolts/Common/BFTask.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFTaskCompletionSource.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFURL.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Bolts/Bolts/iOS/BFURL.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFWebViewAppLinkResolver.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.h"
+        },
+        {
+          'type': 'file',
+          'name': "Bolts-Swift.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/Bolts/Bolts.framework/Headers/Bolts-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Bolts-umbrella.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Target Support Files/Bolts/Bolts-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Bolts.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Bolts/Bolts/Common/Bolts.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/Bolts/Bolts.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Bolts.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FBSDKAccessToken.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKAppEvents.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKAppLinkResolver.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkResolver.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKAppLinkUtility.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkUtility.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKApplicationDelegate.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKButton.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKConstants.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKCopying.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCopying.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKCoreKit-Swift.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKCoreKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKCoreKit-umbrella.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKCoreKit.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKGraphErrorRecoveryProcessor.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKGraphRequest.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKGraphRequestConnection.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKGraphRequestDataAttachment.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKMacros.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKMutableCopying.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMutableCopying.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKProfile.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKProfilePictureView.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKSettings.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKTestUsersManager.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKUtility.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/FBSDKCoreKit.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/FBSDKLoginKit/FBSDKLoginKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FBSDKDeviceLoginCodeInfo.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginCodeInfo.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKDeviceLoginManager.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKDeviceLoginManagerResult.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManagerResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLoginButton.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLoginConstants.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLoginKit-Swift.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLoginKit-umbrella.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Target Support Files/FBSDKLoginKit/FBSDKLoginKit-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLoginKit.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLoginManager.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLoginManagerLoginResult.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManagerLoginResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLoginTooltipView.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginTooltipView.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKTooltipView.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKTooltipView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/FBSDKLoginKit/FBSDKLoginKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/FBSDKLoginKit.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/FacebookCore/FacebookCore.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FacebookCore-Swift.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/FacebookCore/FacebookCore.framework/Headers/FacebookCore-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FacebookCore-umbrella.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Target Support Files/FacebookCore/FacebookCore-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/FacebookCore/FacebookCore.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/FacebookCore.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/FacebookLogin/FacebookLogin.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FacebookLogin-Swift.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/FacebookLogin/FacebookLogin.framework/Headers/FacebookLogin-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FacebookLogin-umbrella.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Target Support Files/FacebookLogin/FacebookLogin-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/FacebookLogin/FacebookLogin.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/FacebookLogin.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/Pods_FacebookLoginDemo.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-FacebookLoginDemo-umbrella.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Pods/Target Support Files/Pods-FacebookLoginDemo/Pods-FacebookLoginDemo-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_FacebookLoginDemo-Swift.h",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/Pods_FacebookLoginDemo.framework/Headers/Pods_FacebookLoginDemo-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Products/Debug-iphoneos/Pods_FacebookLoginDemo.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-FacebookLoginDemo.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

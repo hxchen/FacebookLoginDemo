@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "17852435428123F8338D69ABA87DBAD0DA1D0FDB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "17852435428123F8338D69ABA87DBAD0DA1D0FDB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "73350D17-28A9-462E-BEB4-D160FFAEC918",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "17852435428123F8338D69ABA87DBAD0DA1D0FDB" : "FacebookLoginDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FacebookLoginDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FacebookLoginDemo\/FacebookLoginDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hxchen\/FacebookLoginDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "17852435428123F8338D69ABA87DBAD0DA1D0FDB"
+    }
+  ]
+}

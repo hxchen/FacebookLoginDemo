@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "a8524e81627cc6debe63b23ac98be68a"
+build_time: [1534151961, 740905000]
+inputs:
+  "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/FacebookLoginDemo/ViewController.swift": [1534151960, 0]
+  "/Users/haixiangchen/Desktop/IdeaProjects/hxchen/FacebookLoginDemo/FacebookLoginDemo/AppDelegate.swift": [1532944760, 0]
